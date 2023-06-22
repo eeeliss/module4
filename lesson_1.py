@@ -28,6 +28,7 @@ strcounter(a)"""
         print(sym, counter)
 strcounter(a)"""
 
+#Линейная сложность
 def strcounter(s):
     sym_counter = {}
     for sym in s:
